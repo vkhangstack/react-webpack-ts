@@ -23,7 +23,7 @@ Realtime type checking when developing
 > Clone repository
 
 ```js
-git clone https://github.com/vkhangstack/react-webpack-js.git
+git clone https://github.com/vkhangstack/react-webpack-ts.git
 ```
 
 > Install dependencies

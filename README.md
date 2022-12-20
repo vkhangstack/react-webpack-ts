@@ -5,9 +5,14 @@ react-webpack-ts
 ## Technical
 
 > Node: **v16.18.1+**
+
 > Yarn: **1.22.4+**
-> React: **^18.2.0**,
+
+> React: **^18.2.0**
+
 > React-dom": **^18.2.0**
+
+> Webpack: **^5+**
 
 ```js
 The goal is setting up React TypeScript project. Requirements are below.

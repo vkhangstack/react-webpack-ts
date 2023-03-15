@@ -34,7 +34,7 @@
     "prettier": "^2.8.0",
     "regenerator-runtime": "^0.13.11",
     "typescript": "*",
-    "webpack": "^5.75.0",
+    "webpack": "^5.76.0",
     "webpack-cli": "^5.0.0",
     "webpack-dev-server": "^4.11.1"
   },
